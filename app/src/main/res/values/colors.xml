@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Blue">#FF2C48E4</color>
+    <color name="Indigo">#9867F0</color>
+    <color name="Saffron">#FF5722</color>
+    <color name="Orange">#D98305</color>
+    <color name="skb">#0DE9D5</color>
+    <color name="Red">#F41A0A</color>
+    <color name="Green">#2DE234</color>
+
+
+
+
+</resources>
